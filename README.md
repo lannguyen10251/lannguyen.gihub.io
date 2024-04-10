@@ -35,9 +35,9 @@
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
-  <img src="https://icons8.com/icon/9OGIyU8hrxW5/visual-studio-code-2019"/>
-  <img src="https://icons8.com/icon/ezj3zaVtImPg/visual-studio"/>
-  <img src="https://icons8.com/icon/qYfwpsRXEcpc/power-bi"/>
-  <img src="https://icons8.com/icon/YYhSxUUW8osK/rstudio"/>
-  <img src="https://icons8.com/icon/117561/microsoft-excel-2019"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/fluency/48/visual-studio.png"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png"/>
+  <img src="https://img.icons8.com/fluency/48/rstudio.png"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>
 </p>
