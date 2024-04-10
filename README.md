@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/lannguyen10251/">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="hhttps://www.facebook.com/Orchid.APR419">
+  <a href="https://www.facebook.com/Orchid.APR419">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/lannguyen10251">
