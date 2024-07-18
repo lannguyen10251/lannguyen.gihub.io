@@ -1,8 +1,9 @@
 <img align="left" width="20" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Lan Nguyen</h1>
 <p align="center">
-  <h3 align="center">A passionate BA from Vietnam VN
-  Thank you for taking the precious time to visit my portfolio and explore my activities. I truly look forward to the opportunity to engage in a direct discussion about my skills and expertise with you.
+  <h3 align="center">A passionate BA from Vietnam VN</h3>
+   <h3 align="center">Thank you for taking the precious time to visit my portfolio and explore my activities. 
+     I truly look forward to the opportunity to engage in a direct discussion about my skills and expertise with you.
 Wishing you a wonderful day.</h3>
 </p>
 ✍ I'm a student of: [University of Economics Ho Chi Minh City](https://www.ueh.edu.vn/) (UEH).
